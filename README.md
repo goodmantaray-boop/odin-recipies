@@ -1,1 +1,1 @@
-# odin-recipies
+hello here we will be making a few pages with links to recipies. will reflect when finished and update this.
